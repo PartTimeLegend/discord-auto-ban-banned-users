@@ -1,0 +1,7 @@
+[Bot]
+token = YOUR_DISCORD_BOT_TOKEN_HERE
+prefix = !
+db_host = YOUR_DB_HOST
+db_user = YOUR_DB_USER
+db_password = YOUR_DB_PASSWORD
+db_database = YOUR_DB_NAME
